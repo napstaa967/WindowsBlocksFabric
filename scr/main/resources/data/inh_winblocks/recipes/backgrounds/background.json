@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "minecraft:stone"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        },
+        {
+            "item": "inh_winblocks:teal_dye"
+        }
+    ],
+    "result": {
+        "item": "inh_winblocks:w95_background",
+        "count": 1
+    }
+}

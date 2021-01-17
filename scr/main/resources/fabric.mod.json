@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "inh_winblocks",
+  "version": "${version}",
+
+  "name": "Windows Blocks",
+  "description": "Adds Windows 95 Blocks",
+  "authors": [
+    "@i_nh_ on twitter"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "unlicense",
+  "icon": "assets/inh_winblocks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.insname.windowsblocks.Main"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

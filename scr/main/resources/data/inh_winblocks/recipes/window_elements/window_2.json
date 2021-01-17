@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "inh_winblocks:w95_background"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        }
+    ],
+    "result": {
+        "item": "inh_winblocks:w95_window_2",
+        "count": 1
+    }
+}
