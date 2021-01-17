@@ -1,0 +1,54 @@
+{
+  "item.inh_winblocks.teal_dye": "Teal Dye",
+
+
+  "block.inh_winblocks.w95_background": "Windows 95 Background",
+  "block.inh_winblocks.w95_bat": "Windows 95 Batch File",
+  "block.inh_winblocks.w95_bmp": "Windows 95 Bit Map File",
+  "block.inh_winblocks.w95_cd": "Windows 95 CD Drive",
+  "block.inh_winblocks.w95_checkmark": "Windows 95 Checkmark",
+  "block.inh_winblocks.w95_checkmark_checked": "Windows 95 Checkmark Checked",
+  "block.inh_winblocks.w95_close": "Windows 95 Close Button",
+
+  "block.inh_winblocks.w95_folder": "Windows 95 Folder",
+  "block.inh_winblocks.w95_maximize": "Windows 95 Maximize Button",
+  "block.inh_winblocks.w95_minimize": "Windows 95 Minimize Button",
+  "block.inh_winblocks.w95_namebar": "Windows 95 Name Bar",
+  "block.inh_winblocks.w95_program": "Windows 95 Program",
+  "block.inh_winblocks.w95_scrollbar": "Windows 95 Scrollbar",
+  "block.inh_winblocks.w95_scrollbar_bottom": "Windows 95 Scrollbar Bottom",
+  "block.inh_winblocks.w95_scrollbar_down": "Windows 95 Scrollbar Down Button",
+  "block.inh_winblocks.w95_scrollbar_empty": "Windows 95 Scrollbar Empty",
+  "block.inh_winblocks.w95_scrollbar_middle": "Windows 95 Scrollbar Middle",
+
+  "block.inh_winblocks.w95_scrollbar_top": "Windows 95 Scrollbar Top",
+  "block.inh_winblocks.w95_scrollbar_up": "Windows 95 Scrollbar Up Button",
+  "block.inh_winblocks.w95_file": "Windows 95 File",
+  "block.inh_winblocks.w95_window": "Windows 95 Window",
+  "block.inh_winblocks.w95_hlp": "Windows 95 Help File",
+  "block.inh_winblocks.w95_reset": "Windows 95 Reset Button",
+  "block.inh_winblocks.w95_dll": "Windows 95 Dynamic Link Library File",
+  "block.inh_winblocks.w95_grp": "Windows 95 GRP File",
+  "block.inh_winblocks.w95_ini": "Windows 95 Configuration File",
+  "block.inh_winblocks.w95_txt": "Windows 95 Text File",
+
+  "block.inh_winblocks.w95_pbk": "Windows 95 PhoneBook File",
+  "block.inh_winblocks.w95_floppy": "Windows 95 Floppy",
+  "block.inh_winblocks.w95_drive": "Windows 95 Drive",
+  "block.inh_winblocks.w95_taskbar": "Windows 95 Taskbar",
+  "block.inh_winblocks.w95_start_button_1": "Windows 95 Start Button 1",
+  "block.inh_winblocks.w95_start_button_2": "Windows 95 Start Button 2",
+  "block.inh_winblocks.w95_window_2": "Windows 95 Window Grey",
+  "block.inh_winblocks.w95_information": "Windows 95 Information Button",
+  "block.inh_winblocks.w95_namebar_inactive": "Windows 95 Namebar Inactive",
+  "block.inh_winblocks.w95_scrollbar_side_r": "Windows 95 Scrollbar Side Right",
+
+  "block.inh_winblocks.w95_scrollbar_horizontal": "Windows 95 Scrollbar Horizontal",
+  "block.inh_winblocks.w95_scrollbar_side_l": "Windows 95 Scrollbar Side Left",
+  "block.inh_winblocks.w95_scrollbar_right": "Windows 95 Scrollbar Right Button",
+  "block.inh_winblocks.w95_scrollbar_left": "Windows 95 Scrollbar Left Button",
+  "block.inh_winblocks.w95_idf": "Windows 95 IDF File",
+
+
+  "itemGroup.inh_winblocks.winblocks95": "Winblocks: Windows 95"
+}

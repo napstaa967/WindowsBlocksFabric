@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "inh_winblocks:items/teal_dye"
+  }
+}
